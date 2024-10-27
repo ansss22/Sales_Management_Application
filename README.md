@@ -23,7 +23,7 @@ This application uses [the Forest TTK](https://github.com/rdbende/Forest-ttk-the
 - Ensure you have Python installed on your machine.
 
 - Open a terminal and navigate to the project directory
-. [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
 
 ```bash
 python your_script_name.py
